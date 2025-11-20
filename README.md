@@ -27,4 +27,5 @@ The Ultimate Tea is a responsive landing page featuring:
 ---
 
 📂 Project Status:
+
 ✅ Complete
