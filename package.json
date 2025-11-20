@@ -1,6 +1,5 @@
 {
-  "name": "Scrim-s0128u4",
-  "description": "https://scrimba.com/learn-ui-design-c024/~021",
+  "name": "the-ultimate-tea",
   "scripts": {
     "watch": "webpack -w",
     "build": "webpack"
